@@ -2,14 +2,13 @@
 
 ## Goal
 
-### 사이트맵
-- Home
-- About
-    + OurTeam
-- Project
+#### 사이트맵
+- **Home**
+- **About**
+- **Project**
     + Portfolio
     + ...
-- Contact
+- **Contact**
 
 ## Role
 
