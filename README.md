@@ -1,5 +1,17 @@
 # portfolio-project
 
+## Goal
+
+- 사이트맵
+    + Home
+    + About
+        * OurTeam
+    + Project
+        * Portfolio
+        * ...
+        * ...
+    + Contact
+
 ## Role
 
 - **Developer**
